@@ -1,3 +1,4 @@
+![LisaTriana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisatriana&show_icons=true&theme=radical)
 - 👋 Hi, I’m lisatriana
 - 👀 I’m interested in Software Tester & Web Developer
 - 🌱 I’m currently learning PHP framework Codeigniter
