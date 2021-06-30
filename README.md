@@ -1,7 +1,7 @@
 - 👋 Hi, I’m lisatriana
 - 👀 I’m interested in Software Tester & Web Developer
 - 🌱 I’m currently learning PHP framework Codeigniter
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me : email me on lisatriana@alumni.pcr.ac.id                                               "
 
 <!---
